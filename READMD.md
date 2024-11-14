@@ -1,3 +1,4 @@
+```Code
 var cover = document.createElement("div"); 
 let css = ` 
     position: fixed; 
@@ -12,3 +13,4 @@ let css = `
 
 cover.setAttribute("style", css); 
 document.body.appendChild(cover); 
+```
